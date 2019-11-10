@@ -1,0 +1,2 @@
+flask
+git+ssh://github.com/FrostMN/FlaskAuth#egg=FlaskAuth
